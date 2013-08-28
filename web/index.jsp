@@ -1,6 +1,6 @@
 <%-- 
     Document   : index
-    Created on : Jan 24, 2013, 11:46:05 AM
+    Created on : Aug 28, 2013, 11:46:05 AM
     Author     : ncummins
 --%>
 
@@ -15,7 +15,8 @@
         <h1>Nolan Cummins</h1>
         <h4>430 Glen View Court North, Slinger, WI  53086</h4>
         <h4>Email: nolancummins07@gmail.com</h4>
-        <h4>(262) 644-6465</h4>
+        <h4>Phone: (262) 644-6465</h4>
+        <a href="https://sites.google.com/site/nolancummins07/">More about me</a>
         <br>
         
         <h3>OBJECTIVE</h3>
@@ -70,6 +71,8 @@
                 moving of files to reserve locations</li>
         </ul>
         
+        <br><br>
         
+        <img border="0" src="images/Koala.jpg" alt="koala" width="600" height="400">
     </body>
 </html>
